@@ -4,4 +4,5 @@
 ## Ubuntu ##
 
 gnome-screenshot
-gnome-nano
+gnome-nano  
+sudo apt-get install exfat-fuse exfat-utils
