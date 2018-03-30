@@ -40,3 +40,9 @@ gnome-screenshot
 gnome-nano  
 解决Ubuntu不识别大Ｕ盘的问题  
 sudo apt-get install exfat-fuse exfat-utils  
+
+### Terminal常用快捷键 ###
+|组合键|作用|
+| --- | --- |
+|Alt+Ctrl+T|打开终端|
+|Shift+Ctrl+T|
