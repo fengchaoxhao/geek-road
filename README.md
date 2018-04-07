@@ -39,3 +39,4 @@ gnome-nano
 解决Ubuntu不识别大Ｕ盘的问题  
 sudo apt-get install exfat-fuse exfat-utils  
 
+- [Terminal常用快捷键](./Ubuntu/Terminal.md)
